@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/got": "9.6.7",
-    "@types/sinon": "7.0.13",
+    "@types/sinon": "7.5.0",
     "@typescript-eslint/eslint-plugin": "2.2.0",
     "@typescript-eslint/parser": "2.2.0",
     "ava": "2.3.0",
@@ -30,7 +30,7 @@
     "jscpd": "2.0.15",
     "nyc": "14.1.1",
     "prettier": "1.18.2",
-    "sinon": "7.4.2",
+    "sinon": "7.5.0",
     "typescript": "3.6.3"
   }
 }
